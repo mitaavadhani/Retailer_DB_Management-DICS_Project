@@ -10,6 +10,8 @@ Database Description:
 
 The project integrates and manages data related to customers, vendors, products, orders, and payments etc. Detailed information about the database structure and relationships can be found in the report.
 
+
 The project utilizes Informatica PowerCenter, SQL to effectively manage and analyze retail data.
+
 The project utilizes various data transformations, such as aggregation, router, and expression transformations, to standardize the data.
 
